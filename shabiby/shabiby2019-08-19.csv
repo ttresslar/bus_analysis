@@ -1,0 +1,4 @@
+,departure,date,destination,fare,origin,type,time,weekday,passengers,search_date,search_destination,search_origin,created_at
+0,06:00 AM                                                             Thursday,August 22nd,Rombo,34000,Dodoma,Luxury Bus,06:00 AM,Thursday,0.93,2019-08-22,Rombo,Dodoma,2019-08-19 00:17:41.055552
+1,06:00 AM                                                             Tuesday,August 20th,Dodoma,20000,Dar es Salaam,Luxury Bus,06:00 AM,Tuesday,0.85,2019-08-20,Dodoma,Dar es Salaam,2019-08-19 00:17:41.055552
+2,07:30 AM                                                             Tuesday,August 20th,Dodoma,18000,Dar es Salaam,Luxury Bus,07:30 AM,Tuesday,0.85,2019-08-20,Dodoma,Dar es Salaam,2019-08-19 00:17:41.055552

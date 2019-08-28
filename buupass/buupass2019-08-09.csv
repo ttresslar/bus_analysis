@@ -1,0 +1,270 @@
+,available boarding points,departure time,travel date,bus_co,created_at,destination,origin,price,search_date,search_destination,search_origin,seats_remaining
+0,Jkia @ Paul's Cafe,08:15 AM,"Sat,Aug 10,2019",East African Shuttles,2019-08-09 09:11:37.740798,Arusha,Nairobi,2500,2019-08-10,Arusha,Nairobi,22.0
+1,Jkia @ Paul's Cafe,02:00 PM,"Sat,Aug 10,2019",East African Shuttles,2019-08-09 09:11:37.740814,Arusha,Nairobi,2500,2019-08-10,Arusha,Nairobi,22.0
+2,Railways,07:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790760,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,14.0
+3,Railways,07:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790777,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,10.0
+4,Railways,07:30 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790780,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,11.0
+5,Railways,07:45 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790783,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,19.0
+6,Railways,07:45 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790786,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,18.0
+7,Railways,09:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790829,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,13.0
+8,Railways,09:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790833,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,21.0
+9,Railways,11:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790836,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,24.0
+10,Railways,01:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790838,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,31.0
+11,Railways,07:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790864,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,25.0
+12,Railways,07:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790868,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,17.0
+13,Railways,08:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790870,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,23.0
+14,Railways,08:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790873,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,23.0
+15,,08:30 PM,"Sat,Aug 10,2019",Crown Bus,2019-08-09 09:13:10.790875,Kisumu,Nairobi,1100,2019-08-10,Kisumu,Nairobi,45.0
+16,Railways,09:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790886,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,27.0
+17,Railways,09:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790889,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,21.0
+18,Railways,10:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:13:10.790891,Kisumu,Nairobi,1400,2019-08-10,Kisumu,Nairobi,20.0
+19,Railways,07:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711773,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,11.0
+20,Railways,07:30 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711799,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,25.0
+21,Railways,07:45 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711805,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,17.0
+22,Railways,09:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711810,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,30.0
+23,Railways,09:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711814,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,18.0
+24,Railways,11:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711819,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,31.0
+25,Railways,01:00 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711823,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,32.0
+26,Railways,07:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711826,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,23.0
+27,Railways,08:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711829,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,29.0
+28,Railways,08:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711854,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,19.0
+29,,08:30 PM,"Sun,Aug 11,2019",Crown Bus,2019-08-09 09:13:23.711857,Kisumu,Nairobi,1100,2019-08-11,Kisumu,Nairobi,45.0
+30,Railways,09:00 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711860,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,31.0
+31,Railways,09:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711862,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,30.0
+32,Railways,10:00 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:13:23.711865,Kisumu,Nairobi,1400,2019-08-11,Kisumu,Nairobi,25.0
+33,Railways,07:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462206,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,15.0
+34,Railways,07:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462225,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,29.0
+35,Railways,07:30 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462228,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,27.0
+36,Railways,07:45 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462230,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,27.0
+37,Railways,09:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462233,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,26.0
+38,Railways,09:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462235,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,29.0
+39,Railways,11:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462238,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,32.0
+40,Railways,01:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462240,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,31.0
+41,Railways,07:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462242,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,31.0
+42,Railways,07:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462245,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,29.0
+43,Railways,08:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462247,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,28.0
+44,Railways,08:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462250,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,31.0
+45,,08:30 PM,"Mon,Aug 12,2019",Crown Bus,2019-08-09 09:13:36.462252,Kisumu,Nairobi,1100,2019-08-12,Kisumu,Nairobi,45.0
+46,Railways,09:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462255,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,32.0
+47,Railways,09:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462257,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,32.0
+48,Railways,10:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:13:36.462260,Kisumu,Nairobi,1400,2019-08-12,Kisumu,Nairobi,27.0
+49,Railways,07:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662460,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,28.0
+50,Railways,07:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662478,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,28.0
+51,Railways,07:30 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662481,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,29.0
+52,Railways,07:45 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662484,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,29.0
+53,Railways,09:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662487,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,29.0
+54,Railways,09:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662489,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,31.0
+55,Railways,11:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662492,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,30.0
+56,Railways,01:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662494,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,32.0
+57,Railways,07:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662497,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,32.0
+58,Railways,07:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662499,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,29.0
+59,Railways,08:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662501,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,31.0
+60,Railways,08:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662504,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,32.0
+61,,08:30 PM,"Tue,Aug 13,2019",Crown Bus,2019-08-09 09:13:47.662506,Kisumu,Nairobi,1100,2019-08-13,Kisumu,Nairobi,45.0
+62,Railways,09:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662508,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,32.0
+63,Railways,09:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662511,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,32.0
+64,Railways,10:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:13:47.662513,Kisumu,Nairobi,1400,2019-08-13,Kisumu,Nairobi,32.0
+65,Railways,07:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384579,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,28.0
+66,Railways,07:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384598,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+67,Railways,07:30 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384604,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+68,Railways,07:45 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384609,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+69,Railways,09:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384613,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+70,Railways,09:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384619,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+71,Railways,11:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384623,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+72,Railways,01:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384628,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+73,Railways,07:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384632,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,31.0
+74,Railways,07:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384635,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,29.0
+75,Railways,08:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384637,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,31.0
+76,Railways,08:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384640,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+77,,08:30 PM,"Wed,Aug 14,2019",Crown Bus,2019-08-09 09:13:59.384643,Kisumu,Nairobi,1100,2019-08-14,Kisumu,Nairobi,45.0
+78,Railways,09:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384645,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+79,Railways,09:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384648,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+80,Railways,10:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:13:59.384650,Kisumu,Nairobi,1400,2019-08-14,Kisumu,Nairobi,32.0
+81,Railways,07:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:03.843812,Kampala,Nairobi,2300,2019-08-10,Kampala,Nairobi,12.0
+82,,06:30 PM,"Sat,Aug 10,2019",Crown Bus,2019-08-09 09:14:03.843830,Kampala,Nairobi,1800,2019-08-10,Kampala,Nairobi,47.0
+83,Railways,07:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:03.843833,Kampala,Nairobi,2300,2019-08-10,Kampala,Nairobi,25.0
+84,Railways,07:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:08.361663,Kampala,Nairobi,2300,2019-08-11,Kampala,Nairobi,30.0
+85,,06:30 PM,"Sun,Aug 11,2019",Crown Bus,2019-08-09 09:14:08.361688,Kampala,Nairobi,1800,2019-08-11,Kampala,Nairobi,47.0
+86,Railways,07:00 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:08.361693,Kampala,Nairobi,2300,2019-08-11,Kampala,Nairobi,27.0
+87,Railways,07:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:12.538542,Kampala,Nairobi,2300,2019-08-12,Kampala,Nairobi,29.0
+88,,06:30 PM,"Mon,Aug 12,2019",Crown Bus,2019-08-09 09:14:12.538565,Kampala,Nairobi,1800,2019-08-12,Kampala,Nairobi,47.0
+89,Railways,07:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:12.538569,Kampala,Nairobi,2300,2019-08-12,Kampala,Nairobi,31.0
+90,Railways,07:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:16.786824,Kampala,Nairobi,2300,2019-08-13,Kampala,Nairobi,27.0
+91,,06:30 PM,"Tue,Aug 13,2019",Crown Bus,2019-08-09 09:14:16.786841,Kampala,Nairobi,1800,2019-08-13,Kampala,Nairobi,47.0
+92,Railways,07:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:16.786843,Kampala,Nairobi,2300,2019-08-13,Kampala,Nairobi,32.0
+93,Railways,07:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:21.967206,Kampala,Nairobi,2300,2019-08-14,Kampala,Nairobi,32.0
+94,,06:30 PM,"Wed,Aug 14,2019",Crown Bus,2019-08-09 09:14:21.967222,Kampala,Nairobi,1800,2019-08-14,Kampala,Nairobi,47.0
+95,Railways,07:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:21.967225,Kampala,Nairobi,2300,2019-08-14,Kampala,Nairobi,31.0
+96,Railways,07:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445548,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,10.0
+97,Railways,07:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445594,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,12.0
+98,Railways,07:30 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445601,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,11.0
+99,Railways,07:45 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445605,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,19.0
+100,Railways,07:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445610,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,25.0
+101,Railways,07:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445615,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,17.0
+102,Railways,08:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445619,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,23.0
+103,Railways,09:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:28.445624,Maseno,Nairobi,1400,2019-08-10,Maseno,Nairobi,21.0
+104,Railways,07:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:35.040222,Maseno,Nairobi,1400,2019-08-11,Maseno,Nairobi,11.0
+105,Railways,07:30 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:35.040239,Maseno,Nairobi,1400,2019-08-11,Maseno,Nairobi,25.0
+106,Railways,07:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:35.040242,Maseno,Nairobi,1400,2019-08-11,Maseno,Nairobi,23.0
+107,Railways,08:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:35.040245,Maseno,Nairobi,1400,2019-08-11,Maseno,Nairobi,19.0
+108,Railways,09:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:14:35.040247,Maseno,Nairobi,1400,2019-08-11,Maseno,Nairobi,30.0
+109,Railways,07:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800857,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,15.0
+110,Railways,07:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800874,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,29.0
+111,Railways,07:30 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800877,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,27.0
+112,Railways,07:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800880,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,31.0
+113,Railways,07:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800882,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,29.0
+114,Railways,08:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800885,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,31.0
+115,Railways,09:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:14:41.800887,Maseno,Nairobi,1400,2019-08-12,Maseno,Nairobi,32.0
+116,Railways,07:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728902,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,28.0
+117,Railways,07:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728919,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,28.0
+118,Railways,07:30 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728922,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,29.0
+119,Railways,07:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728925,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,32.0
+120,Railways,07:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728927,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,29.0
+121,Railways,08:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728930,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,32.0
+122,Railways,09:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:14:48.728932,Maseno,Nairobi,1400,2019-08-13,Maseno,Nairobi,32.0
+123,Railways,07:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357688,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,28.0
+124,Railways,07:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357705,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,32.0
+125,Railways,07:30 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357708,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,32.0
+126,Railways,07:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357711,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,31.0
+127,Railways,07:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357714,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,29.0
+128,Railways,08:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357716,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,32.0
+129,Railways,09:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:14:55.357719,Maseno,Nairobi,1400,2019-08-14,Maseno,Nairobi,32.0
+130,Railways,07:30 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:58.253059,Siaya,Nairobi,1450,2019-08-10,Siaya,Nairobi,11.0
+131,Railways,08:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:14:58.253076,Siaya,Nairobi,1450,2019-08-10,Siaya,Nairobi,23.0
+132,Railways,07:30 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:01.289717,Siaya,Nairobi,1450,2019-08-11,Siaya,Nairobi,25.0
+133,Railways,08:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:01.289740,Siaya,Nairobi,1450,2019-08-11,Siaya,Nairobi,19.0
+134,Railways,07:30 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:04.348243,Siaya,Nairobi,1450,2019-08-12,Siaya,Nairobi,27.0
+135,Railways,08:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:04.348260,Siaya,Nairobi,1450,2019-08-12,Siaya,Nairobi,31.0
+136,Railways,07:30 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:07.162206,Siaya,Nairobi,1450,2019-08-13,Siaya,Nairobi,29.0
+137,Railways,08:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:07.162223,Siaya,Nairobi,1450,2019-08-13,Siaya,Nairobi,32.0
+138,Railways,07:30 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:15:09.819823,Siaya,Nairobi,1450,2019-08-14,Siaya,Nairobi,32.0
+139,Railways,08:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:15:09.819839,Siaya,Nairobi,1450,2019-08-14,Siaya,Nairobi,32.0
+140,Railways,09:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:15:13.174154,Mbale,Nairobi,1400,2019-08-10,Mbale,Nairobi,21.0
+141,,05:00 PM,"Sat,Aug 10,2019",Crown Bus,2019-08-09 09:15:13.174170,Mbale,Nairobi,1200,2019-08-10,Mbale,Nairobi,45.0
+142,,08:00 PM,"Sat,Aug 10,2019",Crown Bus,2019-08-09 09:15:13.174173,Mbale,Nairobi,1300,2019-08-10,Mbale,Nairobi,45.0
+143,Railways,09:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:15:13.174176,Mbale,Nairobi,1400,2019-08-10,Mbale,Nairobi,27.0
+144,Railways,09:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:16.419031,Mbale,Nairobi,1400,2019-08-11,Mbale,Nairobi,18.0
+145,,05:00 PM,"Sun,Aug 11,2019",Crown Bus,2019-08-09 09:15:16.419049,Mbale,Nairobi,1200,2019-08-11,Mbale,Nairobi,45.0
+146,,08:00 PM,"Sun,Aug 11,2019",Crown Bus,2019-08-09 09:15:16.419051,Mbale,Nairobi,1300,2019-08-11,Mbale,Nairobi,45.0
+147,Railways,09:00 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:16.419054,Mbale,Nairobi,1400,2019-08-11,Mbale,Nairobi,31.0
+148,Railways,09:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:19.656447,Mbale,Nairobi,1400,2019-08-12,Mbale,Nairobi,29.0
+149,,05:00 PM,"Mon,Aug 12,2019",Crown Bus,2019-08-09 09:15:19.656464,Mbale,Nairobi,1200,2019-08-12,Mbale,Nairobi,45.0
+150,,08:00 PM,"Mon,Aug 12,2019",Crown Bus,2019-08-09 09:15:19.656466,Mbale,Nairobi,1300,2019-08-12,Mbale,Nairobi,45.0
+151,Railways,09:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:19.656469,Mbale,Nairobi,1400,2019-08-12,Mbale,Nairobi,32.0
+152,Railways,09:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:23.058990,Mbale,Nairobi,1400,2019-08-13,Mbale,Nairobi,31.0
+153,,08:00 PM,"Tue,Aug 13,2019",Crown Bus,2019-08-09 09:15:23.059008,Mbale,Nairobi,1300,2019-08-13,Mbale,Nairobi,45.0
+154,Railways,09:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:23.059011,Mbale,Nairobi,1400,2019-08-13,Mbale,Nairobi,32.0
+155,Railways,09:00 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:15:26.561214,Mbale,Nairobi,1400,2019-08-14,Mbale,Nairobi,32.0
+156,,08:00 PM,"Wed,Aug 14,2019",Crown Bus,2019-08-09 09:15:26.561231,Mbale,Nairobi,1300,2019-08-14,Mbale,Nairobi,45.0
+157,Railways,09:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:15:26.561234,Mbale,Nairobi,1400,2019-08-14,Mbale,Nairobi,32.0
+158,Kisumu United Mall,01:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:15:38.252566,Kampala,Kisumu,1200,2019-08-10,Kampala,Kisumu,14.0
+159,Kisumu United Mall,10:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:15:38.252587,Kampala,Kisumu,1200,2019-08-10,Kampala,Kisumu,31.0
+160,Kisumu United Mall,02:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:15:42.869286,Kampala,Kisumu,1200,2019-08-11,Kampala,Kisumu,10.0
+161,Kisumu United Mall,01:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:42.869302,Kampala,Kisumu,1200,2019-08-11,Kampala,Kisumu,30.0
+162,Kisumu United Mall,10:00 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:42.869305,Kampala,Kisumu,1200,2019-08-11,Kampala,Kisumu,24.0
+163,Kisumu United Mall,02:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:15:47.401853,Kampala,Kisumu,1200,2019-08-12,Kampala,Kisumu,10.0
+164,Kisumu United Mall,01:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:47.401868,Kampala,Kisumu,1200,2019-08-12,Kampala,Kisumu,31.0
+165,Kisumu United Mall,10:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:47.401871,Kampala,Kisumu,1200,2019-08-12,Kampala,Kisumu,31.0
+166,Kisumu United Mall,02:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:15:52.410236,Kampala,Kisumu,1200,2019-08-13,Kampala,Kisumu,0.0
+167,Kisumu United Mall,01:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:52.410253,Kampala,Kisumu,1200,2019-08-13,Kampala,Kisumu,27.0
+168,Kisumu United Mall,10:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:52.410256,Kampala,Kisumu,1200,2019-08-13,Kampala,Kisumu,32.0
+169,Kisumu United Mall,02:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:15:56.912224,Kampala,Kisumu,1200,2019-08-14,Kampala,Kisumu,0.0
+170,Kisumu United Mall,01:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:15:56.912239,Kampala,Kisumu,1200,2019-08-14,Kampala,Kisumu,32.0
+171,Kisumu United Mall,10:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:15:56.912242,Kampala,Kisumu,1200,2019-08-14,Kampala,Kisumu,32.0
+172,Kisumu United Mall,01:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:05.592822,Maseno,Kisumu,1400,2019-08-10,Maseno,Kisumu,10.0
+173,Kisumu United Mall,01:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:05.592838,Maseno,Kisumu,1400,2019-08-10,Maseno,Kisumu,14.0
+174,Kisumu United Mall,02:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:05.592841,Maseno,Kisumu,1400,2019-08-10,Maseno,Kisumu,22.0
+175,Kisumu United Mall,02:45 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:05.592844,Maseno,Kisumu,1400,2019-08-10,Maseno,Kisumu,12.0
+176,Kisumu United Mall,10:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:05.592847,Maseno,Kisumu,150,2019-08-10,Maseno,Kisumu,31.0
+177,Kisumu United Mall,02:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:13.054639,Maseno,Kisumu,1400,2019-08-11,Maseno,Kisumu,10.0
+178,Kisumu United Mall,02:30 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:13.054656,Maseno,Kisumu,1400,2019-08-11,Maseno,Kisumu,15.0
+179,Kisumu United Mall,03:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:13.054659,Maseno,Kisumu,1400,2019-08-11,Maseno,Kisumu,10.0
+180,Kisumu United Mall,01:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:13.054662,Maseno,Kisumu,1400,2019-08-11,Maseno,Kisumu,11.0
+181,Kisumu United Mall,02:45 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:13.054665,Maseno,Kisumu,1400,2019-08-11,Maseno,Kisumu,25.0
+182,Kisumu United Mall,02:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:20.563410,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,12.0
+183,Kisumu United Mall,02:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:20.563429,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,10.0
+184,Kisumu United Mall,02:30 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:20.563432,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,10.0
+185,Kisumu United Mall,03:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:20.563434,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,0.0
+186,Kisumu United Mall,01:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:20.563437,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,31.0
+187,Kisumu United Mall,01:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:20.563439,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,15.0
+188,Kisumu United Mall,02:45 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:20.563442,Maseno,Kisumu,1400,2019-08-12,Maseno,Kisumu,28.0
+189,Kisumu United Mall,10:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:20.563444,Maseno,Kisumu,150,2019-08-12,Maseno,Kisumu,31.0
+190,Kisumu United Mall,02:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:28.873994,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,0.0
+191,Kisumu United Mall,02:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:28.874011,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,0.0
+192,Kisumu United Mall,02:30 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:28.874014,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,10.0
+193,Kisumu United Mall,03:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:28.874017,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,0.0
+194,Kisumu United Mall,01:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:28.874020,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,28.0
+195,Kisumu United Mall,01:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:28.874022,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,28.0
+196,Kisumu United Mall,02:45 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:28.874025,Maseno,Kisumu,1400,2019-08-13,Maseno,Kisumu,29.0
+197,Kisumu United Mall,10:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:28.874027,Maseno,Kisumu,150,2019-08-13,Maseno,Kisumu,32.0
+198,Kisumu United Mall,02:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:37.656483,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,0.0
+199,Kisumu United Mall,02:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:37.656504,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,0.0
+200,Kisumu United Mall,02:30 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:37.656507,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,10.0
+201,Kisumu United Mall,03:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:37.656511,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,0.0
+202,Kisumu United Mall,01:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:16:37.656513,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,32.0
+203,Kisumu United Mall,01:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:16:37.656516,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,30.0
+204,Kisumu United Mall,02:45 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:16:37.656519,Maseno,Kisumu,1400,2019-08-14,Maseno,Kisumu,32.0
+205,Kisumu United Mall,10:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:16:37.656521,Maseno,Kisumu,150,2019-08-14,Maseno,Kisumu,32.0
+206,Kisumu United Mall,02:45 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:39.928153,Siaya,Kisumu,1450,2019-08-10,Siaya,Kisumu,12.0
+207,Kisumu United Mall,02:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:42.251417,Siaya,Kisumu,1450,2019-08-11,Siaya,Kisumu,10.0
+208,Kisumu United Mall,02:45 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:42.251435,Siaya,Kisumu,1450,2019-08-11,Siaya,Kisumu,25.0
+209,Kisumu United Mall,02:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:44.552475,Siaya,Kisumu,1450,2019-08-12,Siaya,Kisumu,12.0
+210,Kisumu United Mall,02:45 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:44.552491,Siaya,Kisumu,1450,2019-08-12,Siaya,Kisumu,28.0
+211,Kisumu United Mall,02:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:16:47.916962,Siaya,Kisumu,1450,2019-08-13,Siaya,Kisumu,0.0
+212,Kisumu United Mall,02:45 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:47.916981,Siaya,Kisumu,1450,2019-08-13,Siaya,Kisumu,29.0
+213,Kisumu United Mall,02:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:16:50.479900,Siaya,Kisumu,1450,2019-08-14,Siaya,Kisumu,0.0
+214,Kisumu United Mall,02:45 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:16:50.479917,Siaya,Kisumu,1450,2019-08-14,Siaya,Kisumu,32.0
+215,Kisumu United Mall,03:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:54.154429,Mbale,Kisumu,1400,2019-08-10,Mbale,Kisumu,29.0
+216,Kisumu United Mall,04:00 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:16:57.926086,Mbale,Kisumu,1400,2019-08-11,Mbale,Kisumu,10.0
+217,Kisumu United Mall,03:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:16:57.926101,Mbale,Kisumu,1400,2019-08-11,Mbale,Kisumu,19.0
+218,Kisumu United Mall,04:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:17:00.687141,Mbale,Kisumu,1400,2019-08-12,Mbale,Kisumu,0.0
+219,Kisumu United Mall,03:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:17:00.687158,Mbale,Kisumu,1400,2019-08-12,Mbale,Kisumu,30.0
+220,Kisumu United Mall,04:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:17:03.551213,Mbale,Kisumu,1400,2019-08-13,Mbale,Kisumu,0.0
+221,Kisumu United Mall,03:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:17:03.551230,Mbale,Kisumu,1400,2019-08-13,Mbale,Kisumu,31.0
+222,Kisumu United Mall,04:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:17:06.111576,Mbale,Kisumu,1400,2019-08-14,Mbale,Kisumu,0.0
+223,Kisumu United Mall,03:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:17:06.111593,Mbale,Kisumu,1400,2019-08-14,Mbale,Kisumu,32.0
+224,Kampala,02:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:17:09.859116,Kisumu,Kampala,1000,2019-08-10,Kisumu,Kampala,21.0
+225,Kampala,07:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:17:09.859140,Kisumu,Kampala,1200,2019-08-10,Kisumu,Kampala,25.0
+226,Kampala,02:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:17:17.362289,Kisumu,Kampala,1000,2019-08-12,Kisumu,Kampala,32.0
+227,Kampala,07:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:17:17.362317,Kisumu,Kampala,1200,2019-08-12,Kisumu,Kampala,29.0
+228,Kampala,02:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:17:21.535574,Kisumu,Kampala,1000,2019-08-13,Kisumu,Kampala,32.0
+229,Kampala,07:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:17:21.535597,Kisumu,Kampala,1200,2019-08-13,Kisumu,Kampala,31.0
+230,Kampala,02:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:17:25.042946,Kisumu,Kampala,1000,2019-08-14,Kisumu,Kampala,32.0
+231,Kampala,07:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:17:25.042963,Kisumu,Kampala,1200,2019-08-14,Kisumu,Kampala,32.0
+232,MASENO,07:30 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:15.291304,Kisumu,Maseno,1450,2019-08-10,Kisumu,Maseno,25.0
+233,MASENO,09:15 AM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:15.291321,Kisumu,Maseno,1500,2019-08-10,Kisumu,Maseno,11.0
+234,MASENO,08:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:15.291324,Kisumu,Maseno,200,2019-08-10,Kisumu,Maseno,21.0
+235,MASENO,08:45 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:15.291327,Kisumu,Maseno,2500,2019-08-10,Kisumu,Maseno,21.0
+236,MASENO,09:00 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:15.291330,Kisumu,Maseno,1500,2019-08-10,Kisumu,Maseno,14.0
+237,MASENO,09:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:15.291332,Kisumu,Maseno,1450,2019-08-10,Kisumu,Maseno,26.0
+238,MASENO,01:00 AM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:18:28.143126,Kisumu,Maseno,2500,2019-08-12,Kisumu,Maseno,10.0
+239,MASENO,07:30 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:18:28.143156,Kisumu,Maseno,1450,2019-08-12,Kisumu,Maseno,29.0
+240,MASENO,09:15 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:18:28.143162,Kisumu,Maseno,1500,2019-08-12,Kisumu,Maseno,19.0
+241,MASENO,08:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:18:28.143167,Kisumu,Maseno,200,2019-08-12,Kisumu,Maseno,28.0
+242,MASENO,08:45 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:18:28.143171,Kisumu,Maseno,2500,2019-08-12,Kisumu,Maseno,32.0
+243,MASENO,09:00 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:18:28.143174,Kisumu,Maseno,1500,2019-08-12,Kisumu,Maseno,28.0
+244,MASENO,01:00 AM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:18:34.321678,Kisumu,Maseno,2500,2019-08-13,Kisumu,Maseno,10.0
+245,MASENO,07:30 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:18:34.321720,Kisumu,Maseno,1450,2019-08-13,Kisumu,Maseno,31.0
+246,MASENO,09:15 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:18:34.321726,Kisumu,Maseno,1500,2019-08-13,Kisumu,Maseno,28.0
+247,MASENO,08:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:18:34.321731,Kisumu,Maseno,200,2019-08-13,Kisumu,Maseno,32.0
+248,MASENO,08:45 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:18:34.321736,Kisumu,Maseno,2500,2019-08-13,Kisumu,Maseno,32.0
+249,MASENO,09:00 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:18:34.321742,Kisumu,Maseno,1500,2019-08-13,Kisumu,Maseno,32.0
+250,MASENO,01:00 AM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:18:40.519359,Kisumu,Maseno,2500,2019-08-14,Kisumu,Maseno,0.0
+251,MASENO,07:30 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:18:40.519376,Kisumu,Maseno,1450,2019-08-14,Kisumu,Maseno,32.0
+252,MASENO,09:15 AM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:18:40.519379,Kisumu,Maseno,1500,2019-08-14,Kisumu,Maseno,32.0
+253,MASENO,08:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:18:40.519382,Kisumu,Maseno,200,2019-08-14,Kisumu,Maseno,32.0
+254,MASENO,08:45 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:18:40.519384,Kisumu,Maseno,2500,2019-08-14,Kisumu,Maseno,32.0
+255,MASENO,09:00 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:18:40.519386,Kisumu,Maseno,1500,2019-08-14,Kisumu,Maseno,30.0
+256,MASENO,03:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:18:56.919726,Siaya,Maseno,1450,2019-08-10,Siaya,Maseno,16.0
+257,MASENO,03:30 PM,"Sun,Aug 11,2019",EasyCoach,2019-08-09 09:18:59.134866,Siaya,Maseno,1450,2019-08-11,Siaya,Maseno,26.0
+258,MASENO,03:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:19:01.466378,Siaya,Maseno,1450,2019-08-12,Siaya,Maseno,30.0
+259,MASENO,03:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:19:03.877705,Siaya,Maseno,1450,2019-08-13,Siaya,Maseno,29.0
+260,MASENO,03:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:19:06.111392,Siaya,Maseno,1450,2019-08-14,Siaya,Maseno,32.0
+261,SIAYA,07:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:19:15.544502,Kisumu,Siaya,300,2019-08-10,Kisumu,Siaya,21.0
+262,SIAYA,07:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:19:20.165980,Kisumu,Siaya,300,2019-08-12,Kisumu,Siaya,28.0
+263,SIAYA,07:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:19:22.685053,Kisumu,Siaya,300,2019-08-13,Kisumu,Siaya,32.0
+264,SIAYA,07:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:19:25.470216,Kisumu,Siaya,300,2019-08-14,Kisumu,Siaya,32.0
+265,SIAYA,07:30 PM,"Sat,Aug 10,2019",EasyCoach,2019-08-09 09:19:35.132235,Maseno,Siaya,200,2019-08-10,Maseno,Siaya,27.0
+266,SIAYA,07:30 PM,"Mon,Aug 12,2019",EasyCoach,2019-08-09 09:19:39.891369,Maseno,Siaya,200,2019-08-12,Maseno,Siaya,28.0
+267,SIAYA,07:30 PM,"Tue,Aug 13,2019",EasyCoach,2019-08-09 09:19:42.348924,Maseno,Siaya,200,2019-08-13,Maseno,Siaya,32.0
+268,SIAYA,07:30 PM,"Wed,Aug 14,2019",EasyCoach,2019-08-09 09:19:44.681397,Maseno,Siaya,200,2019-08-14,Maseno,Siaya,32.0

@@ -1,0 +1,44 @@
+,departure,date,destination,fare,origin,type,time,weekday,passengers,search_date,search_destination,search_origin,created_at
+0,06:00 AM                                                             Sunday,August 4th,Dar es Salaam,20000,Dodoma,Luxury Bus,06:00 AM,Sunday,0.89,2019-08-04,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+1,07:30 AM                                                             Sunday,August 4th,Dar es Salaam,20000,Dodoma,Luxury Bus,07:30 AM,Sunday,0.89,2019-08-04,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+2,09:30 AM                                                             Sunday,August 4th,Dar es Salaam,25000,Dodoma,Luxury Bus,09:30 AM,Sunday,0.87,2019-08-04,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+3,10:30 AM                                                             Sunday,August 4th,Dar es Salaam,35000,Dodoma,Luxury Bus,10:30 AM,Sunday,0.87,2019-08-04,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+4,11:30 AM                                                             Sunday,August 4th,Dar es Salaam,25000,Dodoma,Luxury Bus,11:30 AM,Sunday,0.87,2019-08-04,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+5,03:30 PM                                                             Sunday,August 4th,Dar es Salaam,20000,Dodoma,Luxury Bus,03:30 PM,Sunday,0.87,2019-08-04,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+6,06:00 AM                                                             Sunday,August 4th,Dodoma,27000,Moshi,Luxury Bus,06:00 AM,Sunday,0.95,2019-08-04,Dodoma,Moshi,2019-08-03 10:21:31.822824
+7,06:00 AM                                                             Monday,August 5th,Dodoma,27000,Moshi,Luxury Bus,06:00 AM,Monday,0.93,2019-08-05,Dodoma,Moshi,2019-08-03 10:21:31.822824
+8,06:00 AM                                                             Tuesday,August 6th,Dodoma,27000,Moshi,Luxury Bus,06:00 AM,Tuesday,0.96,2019-08-06,Dodoma,Moshi,2019-08-03 10:21:31.822824
+9,06:00 AM                                                             Sunday,August 4th,Rombo,34000,Dodoma,Luxury Bus,06:00 AM,Sunday,0.95,2019-08-04,Rombo,Dodoma,2019-08-03 10:21:31.822824
+10,06:00 AM                                                             Monday,August 5th,Rombo,34000,Dodoma,Luxury Bus,06:00 AM,Monday,0.95,2019-08-05,Rombo,Dodoma,2019-08-03 10:21:31.822824
+11,06:00 AM                                                             Tuesday,August 6th,Rombo,34000,Dodoma,Luxury Bus,06:00 AM,Tuesday,0.93,2019-08-06,Rombo,Dodoma,2019-08-03 10:21:31.822824
+12,06:30 AM                                                             Sunday,August 4th,Moshi,27000,Dodoma,Luxury Bus,06:30 AM,Sunday,0.95,2019-08-04,Moshi,Dodoma,2019-08-03 10:21:31.822824
+13,06:30 AM                                                             Monday,August 5th,Moshi,27000,Dodoma,Luxury Bus,06:30 AM,Monday,0.93,2019-08-05,Moshi,Dodoma,2019-08-03 10:21:31.822824
+14,06:00 AM                                                             Sunday,August 4th,Mbeya,28000,Dodoma,Luxury Bus,06:00 AM,Sunday,0.98,2019-08-04,Mbeya,Dodoma,2019-08-03 10:21:31.822824
+15,06:00 AM                                                             Monday,August 5th,Mbeya,28000,Dodoma,Luxury Bus,06:00 AM,Monday,0.93,2019-08-05,Mbeya,Dodoma,2019-08-03 10:21:31.822824
+16,06:00 AM                                                             Tuesday,August 6th,Mbeya,28000,Dodoma,Luxury Bus,06:00 AM,Tuesday,0.93,2019-08-06,Mbeya,Dodoma,2019-08-03 10:21:31.822824
+23,06:00 AM                                                             Monday,August 5th,Dar es Salaam,20000,Dodoma,Luxury Bus,06:00 AM,Monday,0.84,2019-08-05,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+24,07:30 AM                                                             Monday,August 5th,Dar es Salaam,20000,Dodoma,Luxury Bus,07:30 AM,Monday,0.84,2019-08-05,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+25,09:30 AM                                                             Monday,August 5th,Dar es Salaam,25000,Dodoma,Luxury Bus,09:30 AM,Monday,0.82,2019-08-05,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+26,10:30 AM                                                             Monday,August 5th,Dar es Salaam,35000,Dodoma,Luxury Bus,10:30 AM,Monday,0.82,2019-08-05,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+27,11:30 AM                                                             Monday,August 5th,Dar es Salaam,25000,Dodoma,Luxury Bus,11:30 AM,Monday,0.85,2019-08-05,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+28,03:30 PM                                                             Monday,August 5th,Dar es Salaam,20000,Dodoma,Luxury Bus,03:30 PM,Monday,0.85,2019-08-05,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+29,06:00 AM                                                             Tuesday,August 6th,Dar es Salaam,20000,Dodoma,Luxury Bus,06:00 AM,Tuesday,0.82,2019-08-06,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+30,07:30 AM                                                             Tuesday,August 6th,Dar es Salaam,20000,Dodoma,Luxury Bus,07:30 AM,Tuesday,0.82,2019-08-06,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+31,09:30 AM                                                             Tuesday,August 6th,Dar es Salaam,25000,Dodoma,Luxury Bus,09:30 AM,Tuesday,0.82,2019-08-06,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+32,10:30 AM                                                             Tuesday,August 6th,Dar es Salaam,35000,Dodoma,Luxury Bus,10:30 AM,Tuesday,0.82,2019-08-06,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+33,10:30 AM                                                             Wednesday,August 7th,Dar es Salaam,35000,Dodoma,Luxury Bus,10:30 AM,Wednesday,0.84,2019-08-07,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+34,03:30 PM                                                             Wednesday,August 7th,Dar es Salaam,20000,Dodoma,Luxury Bus,03:30 PM,Wednesday,0.84,2019-08-07,Dar es Salaam,Dodoma,2019-08-03 10:21:31.822824
+35,06:00 AM                                                             Sunday,August 4th,Dodoma,28000,Mbeya,Luxury Bus,06:00 AM,Sunday,0.95,2019-08-04,Dodoma,Mbeya,2019-08-03 10:21:31.822824
+36,06:00 AM                                                             Monday,August 5th,Dodoma,28000,Mbeya,Luxury Bus,06:00 AM,Monday,0.93,2019-08-05,Dodoma,Mbeya,2019-08-03 10:21:31.822824
+37,06:00 AM                                                             Sunday,August 4th,Dodoma,20000,Dar es Salaam,Luxury Bus,06:00 AM,Sunday,0.91,2019-08-04,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+38,07:30 AM                                                             Sunday,August 4th,Dodoma,18000,Dar es Salaam,Luxury Bus,07:30 AM,Sunday,0.91,2019-08-04,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+39,06:00 AM                                                             Monday,August 5th,Dodoma,20000,Dar es Salaam,Luxury Bus,06:00 AM,Monday,0.82,2019-08-05,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+40,07:30 AM                                                             Monday,August 5th,Dodoma,18000,Dar es Salaam,Luxury Bus,07:30 AM,Monday,0.82,2019-08-05,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+41,09:30 AM                                                             Monday,August 5th,Dodoma,25000,Dar es Salaam,Luxury Bus,09:30 AM,Monday,0.83,2019-08-05,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+42,10:30 AM                                                             Monday,August 5th,Dodoma,35000,Dar es Salaam,Luxury Bus,10:30 AM,Monday,0.83,2019-08-05,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+43,11:30 AM                                                             Monday,August 5th,Dodoma,25000,Dar es Salaam,Luxury Bus,11:30 AM,Monday,0.82,2019-08-05,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+44,02:30 PM                                                             Monday,August 5th,Dodoma,20000,Dar es Salaam,Luxury Bus,02:30 PM,Monday,0.82,2019-08-05,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+45,06:00 AM                                                             Tuesday,August 6th,Dodoma,20000,Dar es Salaam,Luxury Bus,06:00 AM,Tuesday,0.81,2019-08-06,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+46,07:30 AM                                                             Tuesday,August 6th,Dodoma,18000,Dar es Salaam,Luxury Bus,07:30 AM,Tuesday,0.81,2019-08-06,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+47,09:30 AM                                                             Tuesday,August 6th,Dodoma,25000,Dar es Salaam,Luxury Bus,09:30 AM,Tuesday,0.82,2019-08-06,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
+48,10:30 AM                                                             Tuesday,August 6th,Dodoma,35000,Dar es Salaam,Luxury Bus,10:30 AM,Tuesday,0.82,2019-08-06,Dodoma,Dar es Salaam,2019-08-03 10:21:31.822824
