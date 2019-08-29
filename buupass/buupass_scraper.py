@@ -91,7 +91,7 @@ def get_places(soup):
     return [_from, _to]
 
 print("Getting from/to pairs from CSV")
-_from_to = pd.read_csv("home/tyler/buupass/buupass_places.csv")
+_from_to = pd.read_csv("/home/tyler/bus_analysis/buupass/buupass_places.csv")
 _from_to_date = []
 for date in date_list:
     temp = _from_to

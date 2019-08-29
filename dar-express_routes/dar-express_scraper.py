@@ -93,7 +93,7 @@ base_df.columns = map(str.lower, base_df.columns)
 # In[9]:
 
 
-base_df.to_csv('/home/tyler/bus_scraper/dar-express_routes/dar-express_routes'+datetime.datetime.today().strftime("%Y-%m-%d")+'.csv')
+base_df.to_csv('/home/tyler/bus_analysis/dar-express_routes/dar-express_routes'+datetime.datetime.today().strftime("%Y-%m-%d")+'.csv')
 print("Wrote results to csv")
 
 
