@@ -102,6 +102,7 @@ for date in date_list:
 
 
 def df_loops(_list):
+    print(_list)
     origin, destination, date = _list
     soup = get_soup(origin,destination,date)
     new_df = pd.DataFrame(get_ticket_info(soup))
